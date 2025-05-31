@@ -7,5 +7,10 @@ export default defineConfig({
     server: {
         port: 54100,
     },
-    base: '/ihc-validation-app/'
+    base: '/IHC-VALIDATION-APP/',
+    preview: {
+        port: 4173,
+        strictPort: true,
+        host: true
+    }
 })
