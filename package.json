@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://yourusername.github.io/reactproject1",
+  "homepage": "https://sudhamurthy1.github.io/IHC-VALIDATION-APP",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
